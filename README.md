@@ -1,1 +1,4 @@
-# AI_fraud_detection
+This project implements a complete machine learning pipeline to build an AI-powered fraud detection system for auto insurance claims. The primary goal is to analyze historical claim data to identify and learn the patterns that distinguish fraudulent claims from legitimate ones.
+The system operates by training multiple classification algorithms on a labeled dataset. It then systematically evaluates these models to identify the most effective one. The final output is not just a report, but a saved, deployable model (.pkl file) that can be used in a real-world application to score new, incoming claims and flag them for review if they appear suspicious. This automates the initial screening process, allowing human investigators to focus their efforts on the most likely cases of fraud.
+Team Id- **TEAM(MB6)4_1**
+Team Members names: Rudra Prasad Padhialli, Jyotirmayi Mahapatra, B. Pragati Prabhakar, Aditi Subudhi
